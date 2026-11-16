@@ -1,0 +1,6 @@
+To build and deploy the site on Replit AI, a detailed single-page prompt was crafted with clear visual and structural specifications. 
+The visual design employs a cream, sage green, and warm orange color palette, rounded cards, attractive typography, and real-life animal photography rather than cartoons or illustrations. 
+Structured as one continuous scrolling page, the layout integrates ten distinct sections: a navigation bar, a hero section ("Where Every Pet Feels at Home"), 
+About Us, Our Pet Guests, Services, a photo gallery, a booking inquiry form, a Why Choose Us section, client testimonials paired with an expandable FAQ, and a contact footer. 
+In terms of functionality, the website supports smooth scrolling navigation, mobile responsiveness, interactive FAQ toggles, and a booking inquiry form equipped with required-field and 
+date validation that displays a demo confirmation upon submission.

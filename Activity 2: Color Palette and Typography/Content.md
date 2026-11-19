@@ -1,0 +1,4 @@
+This activity involved creating a brand board for Veravia Collective, a nursing-inspired brand. It included designing a logo, selecting a color palette, choosing typography, 
+and establishing a brand identity that represents care, compassion, and professionalism.
+
+Through this activity, I learned how to develop a brand identity by choosing appropriate colors, fonts, and logo designs that represent a particular concept. I also learned that consistency in design helps make a brand recognizable and professional. One challenge I faced was selecting colors and typography that would match the identity I wanted to present. I solved this by choosing shades of blue, simple fonts, and a healthcare-inspired logo. In the future, I can use these skills in creating professional designs, personal branding, and other creative projects.

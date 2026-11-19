@@ -1,1 +1,4 @@
+This activity involved creating a promotional poster for a free coffee event at Arrupe Hall, Booth 7. 
+It focused on applying design principles such as color combination, typography, layout, and the proper use of images to create an attractive and informative poster.
 
+Through this activity, I learned how to create an attractive and informative poster by applying proper color combinations, typography, and layout. I also learned the importance of organizing information so that the audience can easily understand the event details. One challenge I faced was arranging the text and images without making the poster look crowded. I solved this by adjusting the placement and size of the elements. In the future, I can apply these skills when creating promotional materials and other school-related designs.
